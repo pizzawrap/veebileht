@@ -1,0 +1,8 @@
+body {
+  background-image: url("https://www.travelreportage.com/wp-content/uploads/2013/01/103pana-184.jpg"); 
+  font-family: 'Courier New', monospace; color: white;
+}
+h2 {
+  text-shadow: 2px 2px;
+}
+p.solid {border-style: solid;}
